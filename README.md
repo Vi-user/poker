@@ -1,4 +1,4 @@
-# PokerStars-RS-Clone
+# PokerStars-RS-Clone (https://pokerstars-allin-rs-clone.netlify.app/)
 
 # Rules the game Texas HoldEm Poker no limit
 
